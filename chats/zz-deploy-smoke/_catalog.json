@@ -7,7 +7,12 @@
   },
   "subjects": {
     "p": [],
-    "g": [],
+    "g": [
+      {
+        "id": "group-x",
+        "name": "Group X"
+      }
+    ],
     "s": [
       {
         "id": "scene-a",
