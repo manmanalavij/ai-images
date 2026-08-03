@@ -23,5 +23,12 @@
   },
   "customSlots": [],
   "images": [],
-  "references": []
+  "references": [
+    {
+      "subject": "hero",
+      "kind": "turnaround",
+      "seq": null,
+      "path": "_reference/01/turnaround.png"
+    }
+  ]
 }
