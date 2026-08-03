@@ -22,6 +22,14 @@
     "s": "01"
   },
   "customSlots": [],
-  "images": [],
+  "images": [
+    {
+      "type": "p",
+      "subject": "kayu",
+      "code": "01",
+      "name": "카유 무표정",
+      "path": "p/01/01.png"
+    }
+  ],
   "references": []
 }
