@@ -6,7 +6,12 @@
     "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-verify2"
   },
   "subjects": {
-    "p": [],
+    "p": [
+      {
+        "id": "test-person",
+        "name": "Test Person"
+      }
+    ],
     "g": [],
     "s": []
   },
