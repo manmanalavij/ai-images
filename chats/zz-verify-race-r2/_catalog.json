@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "chat": {
+    "slug": "zz-verify-race-r2",
+    "name": "Race R2",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-verify-race-r2"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "images": []
+}
