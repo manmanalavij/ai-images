@@ -29,6 +29,13 @@
       "code": "01",
       "name": "카유 무표정",
       "path": "p/01/01.png"
+    },
+    {
+      "type": "p",
+      "subject": "kayu",
+      "code": "02",
+      "name": "카유 미소",
+      "path": "p/01/02.png"
     }
   ],
   "references": [
