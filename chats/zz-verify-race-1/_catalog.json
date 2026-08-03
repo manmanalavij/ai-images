@@ -6,7 +6,12 @@
     "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-verify-race-1"
   },
   "subjects": {
-    "p": [],
+    "p": [
+      {
+        "id": "alice",
+        "name": "Alice"
+      }
+    ],
     "g": [
       {
         "id": "team",
@@ -20,5 +25,13 @@
       }
     ]
   },
-  "images": []
+  "images": [
+    {
+      "type": "p",
+      "subject": "alice",
+      "code": "01",
+      "name": "Alice",
+      "path": "p/alice/01.png"
+    }
+  ]
 }
