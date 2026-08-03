@@ -6,12 +6,18 @@
     "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-f28-3"
   },
   "subjects": {
-    "p": [],
+    "p": [
+      {
+        "id": "hero",
+        "code": "01",
+        "name": "영웅"
+      }
+    ],
     "g": [],
     "s": []
   },
   "nextSubjectCode": {
-    "p": "01",
+    "p": "02",
     "g": "01",
     "s": "01"
   },
