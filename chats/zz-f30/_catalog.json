@@ -22,14 +22,6 @@
     "s": "01"
   },
   "customSlots": [],
-  "images": [
-    {
-      "type": "p",
-      "subject": "hero",
-      "code": "01",
-      "name": "영웅",
-      "path": "p/01/01.png"
-    }
-  ],
+  "images": [],
   "references": []
 }
