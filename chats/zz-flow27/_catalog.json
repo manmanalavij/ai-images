@@ -38,5 +38,12 @@
       "path": "p/01/50.png"
     }
   ],
-  "references": []
+  "references": [
+    {
+      "subject": "hero",
+      "kind": "turnaround",
+      "seq": null,
+      "path": "_reference/01/turnaround.png"
+    }
+  ]
 }
