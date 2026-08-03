@@ -8,7 +8,20 @@
   "subjects": {
     "p": [],
     "g": [],
-    "s": []
+    "s": [
+      {
+        "id": "scene-a",
+        "name": "Scene A"
+      }
+    ]
   },
-  "images": []
+  "images": [
+    {
+      "type": "s",
+      "subject": "scene-a",
+      "code": "01",
+      "name": "Scene A",
+      "path": "s/scene-a/01.png"
+    }
+  ]
 }
