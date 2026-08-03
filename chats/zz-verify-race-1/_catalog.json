@@ -13,7 +13,12 @@
         "name": "Team"
       }
     ],
-    "s": []
+    "s": [
+      {
+        "id": "scene",
+        "name": "Scene"
+      }
+    ]
   },
   "images": []
 }
