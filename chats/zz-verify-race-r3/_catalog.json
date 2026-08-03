@@ -20,5 +20,13 @@
     ],
     "s": []
   },
-  "images": []
+  "images": [
+    {
+      "type": "p",
+      "subject": "alice",
+      "code": "01",
+      "name": "Alice",
+      "path": "p/alice/01.png"
+    }
+  ]
 }
