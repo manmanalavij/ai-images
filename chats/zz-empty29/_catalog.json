@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "chat": {
+    "slug": "zz-empty29",
+    "name": "빈채팅",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-empty29"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "nextSubjectCode": {
+    "p": "01",
+    "g": "01",
+    "s": "01"
+  },
+  "customSlots": [],
+  "images": [],
+  "references": []
+}
