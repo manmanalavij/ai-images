@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "chat": {
+    "slug": "zz-verify2",
+    "name": "ZZ Verify 2",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-verify2"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "images": []
+}
