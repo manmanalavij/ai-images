@@ -12,7 +12,12 @@
         "name": "Alice"
       }
     ],
-    "g": [],
+    "g": [
+      {
+        "id": "team",
+        "name": "Team"
+      }
+    ],
     "s": []
   },
   "images": []
