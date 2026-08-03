@@ -33,6 +33,13 @@
     {
       "type": "p",
       "subject": "hero",
+      "code": "05",
+      "name": "영웅",
+      "path": "p/01/05.png"
+    },
+    {
+      "type": "p",
+      "subject": "hero",
       "code": "50",
       "name": "영웅",
       "path": "p/01/50.png"
