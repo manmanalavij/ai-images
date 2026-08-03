@@ -15,5 +15,13 @@
     "g": [],
     "s": []
   },
-  "images": []
+  "images": [
+    {
+      "type": "p",
+      "subject": "test-person",
+      "code": "01",
+      "name": "Test Person",
+      "path": "p/test-person/01.png"
+    }
+  ]
 }
