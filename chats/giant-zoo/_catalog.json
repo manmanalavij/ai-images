@@ -36,6 +36,13 @@
       "code": "02",
       "name": "카유 미소",
       "path": "p/01/02.png"
+    },
+    {
+      "type": "p",
+      "subject": "kayu",
+      "code": "03",
+      "name": "카유 행복",
+      "path": "p/01/03.png"
     }
   ],
   "references": [
