@@ -34,6 +34,12 @@
   "references": [
     {
       "subject": "kayu",
+      "kind": "expressions",
+      "seq": null,
+      "path": "_reference/01/expressions.png"
+    },
+    {
+      "subject": "kayu",
       "kind": "turnaround",
       "seq": null,
       "path": "_reference/01/turnaround.png"
