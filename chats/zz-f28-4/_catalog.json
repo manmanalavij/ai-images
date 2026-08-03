@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "chat": {
+    "slug": "zz-f28-4",
+    "name": "F28 4",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-f28-4"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "nextSubjectCode": {
+    "p": "01",
+    "g": "01",
+    "s": "01"
+  },
+  "customSlots": [],
+  "images": [],
+  "references": []
+}
