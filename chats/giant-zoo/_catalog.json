@@ -31,5 +31,12 @@
       "path": "p/01/01.png"
     }
   ],
-  "references": []
+  "references": [
+    {
+      "subject": "kayu",
+      "kind": "turnaround",
+      "seq": null,
+      "path": "_reference/01/turnaround.png"
+    }
+  ]
 }
