@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "chat": {
+    "slug": "zz-flow27",
+    "name": "Flow27 검증",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-flow27"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "nextSubjectCode": {
+    "p": "01",
+    "g": "01",
+    "s": "01"
+  },
+  "customSlots": [],
+  "images": [],
+  "references": []
+}
