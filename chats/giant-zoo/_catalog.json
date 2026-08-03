@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "chat": {
+    "slug": "giant-zoo",
+    "name": "거대수인동물원",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/giant-zoo"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "images": []
+}
