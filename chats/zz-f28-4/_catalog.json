@@ -21,7 +21,14 @@
     "g": "01",
     "s": "01"
   },
-  "customSlots": [],
+  "customSlots": [
+    {
+      "code": "50",
+      "slug": "wolf",
+      "name": "늑대화",
+      "promptHint": "보름달에 늑대화하면"
+    }
+  ],
   "images": [
     {
       "type": "p",
