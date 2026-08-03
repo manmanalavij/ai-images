@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "chat": {
+    "slug": "zz-deploy-smoke",
+    "name": "ZZ Deploy Smoke",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-deploy-smoke"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "images": []
+}
