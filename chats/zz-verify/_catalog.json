@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "chat": {
+    "slug": "zz-verify",
+    "name": "ZZ Verify",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-verify"
+  },
+  "subjects": {
+    "p": [
+      {
+        "id": "probe",
+        "name": "Probe"
+      }
+    ],
+    "g": [],
+    "s": []
+  },
+  "images": [
+    {
+      "type": "p",
+      "subject": "probe",
+      "code": "01",
+      "name": "Probe",
+      "path": "p/probe/01.png"
+    }
+  ]
+}
