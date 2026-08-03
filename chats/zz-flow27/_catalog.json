@@ -29,6 +29,14 @@
       "promptHint": "보름달에 늑대화하면"
     }
   ],
-  "images": [],
+  "images": [
+    {
+      "type": "p",
+      "subject": "hero",
+      "code": "50",
+      "name": "영웅",
+      "path": "p/01/50.png"
+    }
+  ],
   "references": []
 }
