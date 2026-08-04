@@ -91,6 +91,13 @@
       "code": "08",
       "name": "카유 울음",
       "path": "p/01/08.png"
+    },
+    {
+      "type": "p",
+      "subject": "hayu",
+      "code": "01",
+      "name": "하유 무표정",
+      "path": "p/02/01.png"
     }
   ],
   "references": [
