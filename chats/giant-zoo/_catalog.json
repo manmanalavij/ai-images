@@ -105,6 +105,13 @@
       "code": "01",
       "name": "하유 무표정",
       "path": "p/02/01.png"
+    },
+    {
+      "type": "p",
+      "subject": "hayu",
+      "code": "50",
+      "name": "하유 일어섬",
+      "path": "p/02/50.png"
     }
   ],
   "references": [
