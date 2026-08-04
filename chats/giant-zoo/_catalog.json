@@ -41,7 +41,14 @@
     "g": "01",
     "s": "01"
   },
-  "customSlots": [],
+  "customSlots": [
+    {
+      "code": "50",
+      "slug": "standing",
+      "name": "일어섬",
+      "promptHint": "캐릭터가 일어서면"
+    }
+  ],
   "images": [
     {
       "type": "p",
