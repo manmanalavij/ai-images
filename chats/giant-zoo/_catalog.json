@@ -59,6 +59,12 @@
       "slug": "tiny-lift",
       "name": "소인 들기",
       "promptHint": "캐릭터가 사람을 들면"
+    },
+    {
+      "code": "53",
+      "slug": "looking-down",
+      "name": "내려다봄",
+      "promptHint": "캐릭터가 가까이 내려다보면"
     }
   ],
   "images": [
