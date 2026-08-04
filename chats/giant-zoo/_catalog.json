@@ -133,6 +133,13 @@
     {
       "type": "p",
       "subject": "hayu",
+      "code": "24",
+      "name": "하유 생각",
+      "path": "p/02/24.png"
+    },
+    {
+      "type": "p",
+      "subject": "hayu",
       "code": "50",
       "name": "하유 일어섬",
       "path": "p/02/50.png"
