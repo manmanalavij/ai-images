@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "chat": {
+    "slug": "zz-toggle",
+    "name": "토글",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-toggle"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "nextSubjectCode": {
+    "p": "01",
+    "g": "01",
+    "s": "01"
+  },
+  "customSlots": [],
+  "images": [],
+  "references": []
+}
