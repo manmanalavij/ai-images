@@ -64,6 +64,13 @@
       "code": "07",
       "name": "카유 슬픔",
       "path": "p/01/07.png"
+    },
+    {
+      "type": "p",
+      "subject": "kayu",
+      "code": "08",
+      "name": "카유 울음",
+      "path": "p/01/08.png"
     }
   ],
   "references": [
