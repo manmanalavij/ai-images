@@ -25,5 +25,15 @@
   "customSlots": [],
   "images": [],
   "references": [],
-  "prompts": {}
+  "prompts": {
+    "hero": [
+      {
+        "id": "7e736d2f-8748-4c56-bac2-064ba149dc3c",
+        "name": "A",
+        "content": "aaa",
+        "createdAt": 1785825378741,
+        "updatedAt": 1785825378741
+      }
+    ]
+  }
 }
