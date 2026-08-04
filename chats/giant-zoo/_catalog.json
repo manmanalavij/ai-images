@@ -65,6 +65,12 @@
       "slug": "looking-down",
       "name": "내려다봄",
       "promptHint": "캐릭터가 가까이 내려다보면"
+    },
+    {
+      "code": "54",
+      "slug": "viewer-lift",
+      "name": "뷰어 들기",
+      "promptHint": "캐릭터가 뷰어를 들면"
     }
   ],
   "images": [
