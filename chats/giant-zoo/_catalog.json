@@ -57,6 +57,13 @@
       "code": "06",
       "name": "카유 짜증",
       "path": "p/01/06.png"
+    },
+    {
+      "type": "p",
+      "subject": "kayu",
+      "code": "07",
+      "name": "카유 슬픔",
+      "path": "p/01/07.png"
     }
   ],
   "references": [
