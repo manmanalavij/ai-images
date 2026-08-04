@@ -144,6 +144,13 @@
       "code": "52",
       "name": "하유 소인 들기",
       "path": "p/02/52.png"
+    },
+    {
+      "type": "p",
+      "subject": "hayu",
+      "code": "53",
+      "name": "하유 내려다봄",
+      "path": "p/02/53.png"
     }
   ],
   "references": [
