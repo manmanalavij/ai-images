@@ -194,5 +194,16 @@
       "path": "_reference/01/turnaround.png"
     }
   ],
-  "personOnly": true
+  "personOnly": true,
+  "prompts": {
+    "hayu": [
+      {
+        "id": "1eed1c74-e694-4895-82d4-8ba23e069275",
+        "name": "기본",
+        "content": "1girl, wolf ears, ears up, wolf tail, yellow eyes, slit pupils, red collar, white t-shirt, blue shorts, dark grey hair, long hair, long bands, messy hair, young mature woman, medium breast,",
+        "createdAt": 1785825519824,
+        "updatedAt": 1785825519824
+      }
+    ]
+  }
 }
