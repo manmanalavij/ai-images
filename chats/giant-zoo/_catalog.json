@@ -47,6 +47,12 @@
       "slug": "standing",
       "name": "일어섬",
       "promptHint": "캐릭터가 일어서면"
+    },
+    {
+      "code": "51",
+      "slug": "foot-up",
+      "name": "발 들기",
+      "promptHint": "밟기 위해 발을 들어올림"
     }
   ],
   "images": [
