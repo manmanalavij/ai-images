@@ -118,6 +118,13 @@
       "code": "50",
       "name": "하유 일어섬",
       "path": "p/02/50.png"
+    },
+    {
+      "type": "p",
+      "subject": "hayu",
+      "code": "51",
+      "name": "하유 발 들기",
+      "path": "p/02/51.png"
     }
   ],
   "references": [
