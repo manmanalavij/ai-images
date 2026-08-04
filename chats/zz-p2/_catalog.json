@@ -28,13 +28,6 @@
   "prompts": {
     "hero": [
       {
-        "id": "7e736d2f-8748-4c56-bac2-064ba149dc3c",
-        "name": "A",
-        "content": "aaa",
-        "createdAt": 1785825378741,
-        "updatedAt": 1785825378741
-      },
-      {
         "id": "42c5069c-1d2c-4f43-bed5-fefed5165b21",
         "name": "B",
         "content": "bbb",
