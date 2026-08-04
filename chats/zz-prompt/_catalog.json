@@ -34,10 +34,10 @@
     "hero": [
       {
         "id": "781b12be-b2fa-4abd-8430-8c21fa4172ef",
-        "name": "전투",
-        "content": "줄1\n  들여쓰기줄\n\n유니코드 🐺",
+        "name": "전투v2",
+        "content": "수정됨",
         "createdAt": 1785824951290,
-        "updatedAt": 1785824951290
+        "updatedAt": 1785824959292
       },
       {
         "id": "5e49dc2e-c8e7-4e24-99e3-ed02cc95d69c",
