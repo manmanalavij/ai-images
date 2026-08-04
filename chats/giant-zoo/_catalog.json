@@ -53,6 +53,12 @@
       "slug": "foot-up",
       "name": "발 들기",
       "promptHint": "밟기 위해 발을 들어올림"
+    },
+    {
+      "code": "52",
+      "slug": "tiny-lift",
+      "name": "소인 들기",
+      "promptHint": "캐릭터가 사람을 들면"
     }
   ],
   "images": [
