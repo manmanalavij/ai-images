@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "personOnly": true,
+  "chat": {
+    "slug": "zz-prompt",
+    "name": "P",
+    "baseImageUrl": "https://raw.githubusercontent.com/manmanalavij/ai-images/main/chats/zz-prompt"
+  },
+  "subjects": {
+    "p": [],
+    "g": [],
+    "s": []
+  },
+  "nextSubjectCode": {
+    "p": "01",
+    "g": "01",
+    "s": "01"
+  },
+  "customSlots": [],
+  "images": [],
+  "references": [],
+  "prompts": {}
+}
