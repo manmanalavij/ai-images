@@ -30,5 +30,15 @@
   "customSlots": [],
   "images": [],
   "references": [],
-  "prompts": {}
+  "prompts": {
+    "hero": [
+      {
+        "id": "781b12be-b2fa-4abd-8430-8c21fa4172ef",
+        "name": "전투",
+        "content": "줄1\n  들여쓰기줄\n\n유니코드 🐺",
+        "createdAt": 1785824951290,
+        "updatedAt": 1785824951290
+      }
+    ]
+  }
 }
